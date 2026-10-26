@@ -1,0 +1,42 @@
+
+# ======================================
+# CÂMBIO 360° - Arquivos ignorados pelo Git
+# ======================================
+
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+
+# Bancos de dados locais
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações locais do Streamlit
+.streamlit/secrets.toml
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+.pytest_cache/
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
