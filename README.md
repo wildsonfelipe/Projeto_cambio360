@@ -68,6 +68,23 @@ cambio360/
 - Consulta ao histórico armazenado no SQLite.
 - Exportação dos dados históricos em arquivo CSV.
 
+
+## 🖥️ Visualização do Dashboard
+
+O Câmbio 360° possui um dashboard interativo
+desenvolvido com Streamlit, que permite acompanhar
+cotações cambiais e analisar o histórico das moedas.
+
+### 📊 Conheça a interface do projeto
+
+O arquivo PDF apresenta uma visualização do dashboard,
+incluindo indicadores, tabelas e gráficos.
+
+**[📄 Clique aqui para visualizar o Dashboard em PDF](Dashboard_Cambio360.pdf)**
+
+O dashboard pode ser executado localmente seguindo
+as instruções da seção "Como executar".
+
 ## 🚀 Como executar
 
 ### 1. Pré-requisitos
